@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blog-App**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React JS, JavaScript, Redux**
 
