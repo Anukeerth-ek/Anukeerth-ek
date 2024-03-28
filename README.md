@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/anukeerth-ek" target="blank"><img src="https://img.shields.io/twitter/follow/anukeerth-ek?logo=twitter&style=for-the-badge" alt="anukeerth-ek" /></a> </p>
 
-- 🔭 I’m currently working on **Blog-App**
+-     Portfolio - https://anukeerthek.netlify.app/
+
+- 🔭 I’m currently working on **React Native Youtube clone**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -15,7 +17,6 @@
 
 - 📫 How to reach me **anukeerthek@gmail.com**
 
-- ⚡ Fun fact **I'm Funny everytime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
