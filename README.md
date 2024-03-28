@@ -1,8 +1,9 @@
+[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://Anukeerth-ek.io)
 <h1 align="center">Hi 👋, I'm Anukeerth EK</h1>
-<h3 align="center">An innovative Frontend Developer ReactJS developer | React Native developer from India</h3>
+<h3 align="center">An innovative and passionate Frontend Developer ReactJS developer | React Native developer</h3>
+<img alt="animated image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400"/>
 
-
-
+<p align="left"> <a href="https://twitter.com/anukeerth-ek" target="blank"><img src="https://img.shields.io/twitter/follow/anukeerth-ek?logo=twitter&style=for-the-badge" alt="anukeerth-ek" /></a> </p>
 - PORTFOLIO - https://anukeerthek.netlify.app/
 
 - 🔭 I’m currently working on **React Native YouTube Clone**
