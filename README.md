@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/anukeerth-ek" target="blank"><img src="https://img.shields.io/twitter/follow/anukeerth-ek?logo=twitter&style=for-the-badge" alt="anukeerth-ek" /></a> </p>
 - PORTFOLIO - https://anukeerthek.netlify.app/
 
-- 🔭 I’m currently working on **React Native YouTube Clone**
+- 🔭 I’m currently working on **Ai Prompt - App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **React JS, React Native, TypeScript, JavaScript, Redux**
+- 💬 Ask me about **React JS, Next JS, React Native, TypeScript, JavaScript, Redux**
 
 - 📫 How to reach me **anukeerthek@gmail.com**
 
