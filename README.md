@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **React JS, Next JS, React Native, TypeScript, JavaScript, Redux**
+- 💬 Ask me about **React JS, Next JS, React Native, Node JS, Express JS, TypeScript, JavaScript, Redux**
 
 - 📫 How to reach me **anukeerthek@gmail.com**
 
