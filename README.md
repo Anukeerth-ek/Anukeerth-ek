@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/anukeerth-ek" target="blank"><img src="https://img.shields.io/twitter/follow/anukeerth-ek?logo=twitter&style=for-the-badge" alt="anukeerth-ek" /></a> </p>
 - PORTFOLIO - https://anukeerthek.netlify.app/
 
-- 🔭 I’m currently working on **Ai Prompt - App**
+- 🔭 I’m currently working on ** JOB Search App **
 
 - 🌱 I’m currently learning **Next JS**
 
