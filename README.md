@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ** JOB Search App **
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Mongo DB**
 
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Express JS, TypeScript, JavaScript, Redux**
 
