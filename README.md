@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/anukeerthek" target="blank">
+<a href="https://dev.to/anukeerth_ek" target="blank">
     <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to/anukeerthek"/>
 </a>
 <a href="https://twitter.com/anukeerth-ek" target="blank">
@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/anukeerthek" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-%2320BE72.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank.com/anukeerthek"/>
 </a>
-<a href="https://www.leetcode.com/anukeerthek" target="blank">
+<a href="https://leetcode.com/u/Anukeerth_EK/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode.com/anukeerthek"/>
 </a>
 </p>
