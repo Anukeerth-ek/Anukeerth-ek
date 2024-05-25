@@ -18,13 +18,27 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/anukeerthek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/anukeerthek" height="30" width="40" /></a>
-<a href="https://twitter.com/anukeerth-ek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anukeerth-ek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anukeerth-ek-94462621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anukeerth-ek-94462621b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22637336/anukeerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22637336/anukeerth" height="30" width="40" /></a>
-<a href="https://medium.com/@anukeerthek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anukeerthek" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anukeerthek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anukeerthek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anukeerth ek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anukeerth ek" height="30" width="40" /></a>
+<a href="https://dev.to/anukeerthek" target="blank">
+    <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to/anukeerthek"/>
+</a>
+<a href="https://twitter.com/anukeerth-ek" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="anukeerth-ek"/>
+</a>
+<a href="https://www.linkedin.com/in/anukeerth-ek-94462621b/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/anukeerth-ek-94462621b/"/>
+</a>
+<a href="https://stackoverflow.com/users/22637336/anukeerth" target="blank">
+    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow.com/users/22637336/anukeerth"/>
+</a>
+<a href="https://medium.com/@anukeerthek" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@anukeerthek"/>
+</a>
+<a href="https://www.hackerrank.com/anukeerthek" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-%2320BE72.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank.com/anukeerthek"/>
+</a>
+<a href="https://www.leetcode.com/anukeerthek" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode.com/anukeerthek"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
