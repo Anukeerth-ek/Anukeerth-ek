@@ -28,11 +28,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![React JS](https://img.shields.io/badge/React%20JS-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next%20JS-%231572B6.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React JS](https://img.shields.io/badge/React-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%231572B6.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-![Node JS](https://img.shields.io/badge/Node%20JS-%23ED8B00.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20JS-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node-%23ED8B00.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%234285F4.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6DA55F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -47,9 +47,8 @@
 ![JSON](https://img.shields.io/badge/JSON-%2307405e.svg?style=for-the-badge&logo=json&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23FF9A00.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-49021F?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%2331A8FF.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%2331A8FF.svg?style=for-the-badge
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anukeerth-ek&show_icons=true&locale=en&layout=compact" alt="anukeerth-ek" /></p>
