@@ -125,5 +125,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anukeerth-ek&show_icons=true&locale=en" alt="anukeerth-ek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anukeerth-ek&" alt="anukeerth-ek" /></p>
-✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2>✍️ Random Dev Quote</h2>
+<p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
