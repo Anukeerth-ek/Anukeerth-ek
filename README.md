@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/anukeerth-ek" target="blank"><img src="https://img.shields.io/twitter/follow/anukeerth-ek?logo=twitter&style=for-the-badge" alt="anukeerth-ek" /></a> </p>
 - PORTFOLIO - https://anukeerthek.netlify.app/
 
-- 🔭 I’m currently working on ** Antique Selling Shop **
+- 🔭 I’m currently working on ** Antique Items selling shop **
 
 - 🌱 I’m currently learning **Mongo DB**
 
