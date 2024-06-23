@@ -1,4 +1,4 @@
-
+[b[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif?w="200")](https://Anukeerth-ek.io)](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="MasterHead" style="width: 200px; height: 100px;">](https://Anukeerth-ek.io))
 <h1 align="center">Hi 👋, I'm Anukeerth EK</h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 <h3 align="center">An innovative and passionate Front-End React Developer | React Native developer</h3>
