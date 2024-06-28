@@ -115,7 +115,7 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </a>
 <a href="https://www.jest.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jest-00599C?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+    <img src="https://img.shields.io/badge/Jest-96004B?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 </a>
 </p>
 
