@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ** Antique Items selling shop **
 
-- 🌱 I’m currently learning **Mongo DB**
+- 🌱 I’m currently learning **PostgreSQL*
 
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Express JS, TypeScript, JavaScript, Redux**
 
