@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL*
 
-- 💬 Ask me about **React JS, Next JS, React Native, Node JS, Express JS, TypeScript, JavaScript, Redux**
+- 💬 Ask me about **React JS, Next JS, React Native, Node JS, Mongo DB, Express JS, TypeScript, JavaScript, Redux**
 
 - 📫 How to reach me **anukeerthek@gmail.com**
 
