@@ -126,7 +126,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anukeerth-ek&show_icons=true&locale=en&layout=compact" alt="anukeerth-ek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anukeerth-ek&show_icons=true&locale=en" alt="anukeerth-ek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anukeerth-ek&show_icons=false&locale=en" alt="anukeerth-ek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anukeerth-ek&" alt="anukeerth-ek" /></p>
 <h2>✍️ Random Dev Quote</h2>
