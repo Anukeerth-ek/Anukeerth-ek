@@ -133,7 +133,7 @@
   />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anukeerth-ek&show_icons=true&locale=en&layout=compact" alt="anukeerth-ek" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anukeerth-ek&show_icons=true&locale=en&layout=compact" alt="anukeerth-ek" /></p>
 
 
 
