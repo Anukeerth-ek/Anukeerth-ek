@@ -138,9 +138,9 @@
 
 
 <div>
-    <h2>✍️ Random Dev Quote</h2>
+<!--     <h2>✍️ Random Dev Quote</h2> -->
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-<p>
-</p>
-</div>
+<!-- <p> -->
+<!-- </p> -->
+<!-- </div> -->
 <!-- [![](https://visitcount.itsvg.in/api?id=Anukeerth-ek&icon=0&color=0)](https://visitcount.itsvg.in) -->
