@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/anukeerth-ek" target="blank"><img src="https://img.shields.io/twitter/follow/anukeerth-ek?logo=twitter&style=for-the-badge" alt="anukeerth-ek" /></a> </p>
 - Visit My Website - https://anukeerthek.netlify.app/
 
-- 🔭 I’m currently working on ** Antique Items selling shop **
+- 🔭 I’m currently working on **Antique Items selling WebApp**
 
-- 🌱 I’m currently learning ** Software Debugging **
+- 🌱 I’m currently learning **Software Debugging**
 
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Mongo DB, Express JS, TypeScript, JavaScript, Redux**
 
