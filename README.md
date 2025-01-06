@@ -126,6 +126,9 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
 </a>
+<a href="https://mantine.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Mantine-38B2AC?style=for-the-badge&logo=Mantine&logoColor=white" alt="Mantine"/>
+</a>
 </p>
 
 
