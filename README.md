@@ -117,6 +117,15 @@
 <a href="https://www.jest.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jest-96004B?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 </a>
+<a href="https://graphql.org/learn/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql"/>
+</a>
+<a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=ReactQuery&logoColor=white" alt="ReactQuery"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
+</a>
 </p>
 
 
