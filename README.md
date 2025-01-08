@@ -7,13 +7,13 @@
 <p align="left"> <a href="https://twitter.com/anukeerth-ek" target="blank"><img src="https://img.shields.io/twitter/follow/anukeerth-ek?logo=twitter&style=for-the-badge" alt="anukeerth-ek" /></a> </p>
 - Visit My Website - https://anukeerthek.netlify.app/
 
-- 🔭 I’m currently working on **Business Managing App**
+- 🔭 I’m currently building **Business Managing App**
 
 - 🌱 I’m currently learning **Software Debugging**
 
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Mongo DB, Express JS, TypeScript, JavaScript, Redux**
 
-- 📫 How to reach me **anukeerthek@gmail.com**
+- 📫 You can reach out to me **anukeerthek@gmail.com**
 
 
 
