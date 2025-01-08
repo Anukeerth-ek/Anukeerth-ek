@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Mongo DB, Express JS, TypeScript, JavaScript, Redux**
 
-- 📫 You can reach out to me **anukeerthek@gmail.com**
+- 📫 You can reach out to me:  **anukeerthek@gmail.com**
 
 
 
