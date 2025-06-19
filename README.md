@@ -17,7 +17,7 @@
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Mongo DB, Express JS, TypeScript, JavaScript, Redux**
 
 - 📫 You can reach out to me:  **anukeerthek@gmail.com**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anukeerth-ek&label=Profile%20views&color=0e75b6&style=flat" alt="Anukeerth-ek" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
