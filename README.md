@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently building **Business Managing App**
 
-- 🌱 I’m currently learning **Software Debugging**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Mongo DB, Express JS, TypeScript, JavaScript, Redux**
 
