@@ -77,6 +77,18 @@
 <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </a>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+</a>
+<a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Unit_testing" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Unit%20Testing-25A162?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Unit Testing"/>
+</a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </a>
