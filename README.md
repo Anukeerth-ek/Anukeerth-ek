@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently building **Peer to Peer Mentoring App**
 
-- 🌱 I’m currently learning **Unit Testing**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Mongo DB, Express JS, TypeScript, JavaScript, Redux**
 
