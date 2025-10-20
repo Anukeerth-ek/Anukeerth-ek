@@ -13,7 +13,7 @@
 
 -  View My Work - https://anukeerthek.netlify.app/
 
-- 🔭 I’m currently building **Peer to Peer Mentoring App**
+- 🔭 I’m currently building **NutriScan - An AI Health care App**
 
 - 🌱 I’m currently learning **Kubernetes**
 
