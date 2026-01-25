@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently building **NutriScan - An AI Health care App**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **React JS, Next JS, React Native, Node JS, Mongo DB, Express JS, TypeScript, JavaScript, Redux**
 
